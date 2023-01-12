@@ -1,2 +1,2 @@
-ArtisticDoc
-下滑开启您的旅程！
+#ArtisticDoc
+[探索][#README.MD]
