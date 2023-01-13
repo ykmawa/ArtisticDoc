@@ -10,7 +10,7 @@
 
 - 非正版用户需要做的事
 
-  - [保姆级教程-如何是用电脑进入服务器](https://shimo.im/docs/gXqme2gypyceBPqo)
+  - [非正版如何进入服务器](https://shimo.im/docs/gXqme2gypyceBPqo)
 
 - 初来乍到要做的事
   
