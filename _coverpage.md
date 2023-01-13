@@ -1,2 +1,2 @@
 # ArtisticDoc
-[探索](https://doc.acurl.tk/#README)
+[探索](https://www.artisticc.xyz/#README)
