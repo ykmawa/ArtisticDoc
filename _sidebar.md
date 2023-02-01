@@ -28,7 +28,7 @@
 - 附页
 
   - [特别鸣谢](/thanks.md)
-  - [赞助名单](/PRIME.md)
+  - [赞助名单](/PRIME.MD)
   - [管理名单](/ops.md)
   - [群管名单](/groupmanager.md)
   - [友情链接](/YQLJ.MD)
