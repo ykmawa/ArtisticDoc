@@ -31,4 +31,3 @@
   - [赞助名单](/PRIME.md)
   - [管理名单](/ops.md)
   - [群管名单](/groupmanager.md)
-  - [友情链接](/YQLJ.MD)
