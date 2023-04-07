@@ -12,15 +12,6 @@
 
   - [非正版如何进入服务器](https://shimo.im/docs/gXqme2gypyceBPqo)
 
-- 初来乍到要做的事
-  
-  - [加入城镇](/jointown.md)
-
-- 插件
-  
-  - [如何听歌](https://shimo.im/docs/e1Az4JpGgxigp0qW/)
-  - [如何点歌](https://docs.qq.com/doc/DWFZZQUF2dmNOT3lz)
-
 - 规章制度
 
   - [规则和处罚方式](/rules.md)
